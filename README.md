@@ -1,15 +1,17 @@
 ### Hi there 👋
-bye
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=113205117)
+Welcome to my GitHub profile!
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=113205117)
 
 ----
 
-<div width="100%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeolinNaidoo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeolinNaidoo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Deolin's GitHub streak stats" />
 </div>
+
 <br />
-<div width="100%">
-<img src="https://github.com/DeolinNaidoo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/DeolinNaidoo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeolinNaidoo&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Deolin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeolinNaidoo&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
