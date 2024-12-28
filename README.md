@@ -15,3 +15,9 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-stats.vercel.app/api?username=DeolinNaidoo&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Deolin's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeolinNaidoo&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeolinNaidoo/DeolinNaidoo/935647617284fb341ae6428a78fd3c20632f7afa/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeolinNaidoo/DeolinNaidoo/935647617284fb341ae6428a78fd3c20632f7afa/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DeolinNaidoo/DeolinNaidoo/935647617284fb341ae6428a78fd3c20632f7afa/github-snake.svg" />
+</picture>
