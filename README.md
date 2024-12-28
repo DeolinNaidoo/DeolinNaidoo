@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeolinNaidoo&show_icons=true&theme=black-ice&bg_color=0D1117&hide_border=true" alt="deolinnaidoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeolinNaidoo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="deolinnaidoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeolinNaidoo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="deolinnaidoo" /></p>
 
 
 <picture>
