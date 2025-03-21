@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deolin</h1>
-<h3 align="center">A passionate backend developer from South Africa</h3>
+<h3 align="center">17 | Building with code, robotics, and tech</h3>
 
-- 🔭 I’m currently working on [Lunara Labs](https://lunaralab.com)
-
-- 🌱 I’m currently learning **Python, AI/ML**
+- 🌱 I’m currently learning **Secret**
 
 - 👨‍💻 All of my projects are available at [https://deolinnaidoo.xyz](https://deolinnaidoo.xyz)
 
 - 📝 I like to write articles on [https://blog.deolinnaidoo.xyz](https://blog.deolinnaidoo.xyz)
 
 - 📫 How to reach me **hello@deolinnaidoo.xyz**
-
-- ⚡ Fun fact **I am Diddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
